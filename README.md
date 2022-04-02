@@ -17,3 +17,4 @@ NaScript can also be utilized for things such as hot key automation, running reg
 ---
 
 ### Regarding Trademark:
+There is a pending trademark application for NaScript,
