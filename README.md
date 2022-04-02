@@ -13,5 +13,7 @@ NaScript which might stand for *Not Average Script* or (something else), is a ne
 NaScript can also be utilized for things such as hot key automation, running regular expressions, and even setting up database macros and various forms of parsing. Game development should also be a breeze with NaScript. As a language, NaScript is very robust. It wants to bridge lots of gaps in the software engineering world.
 
 # COMING SOON!
+
 ---
-Regarding Trademark:
+
+### Regarding Trademark:
